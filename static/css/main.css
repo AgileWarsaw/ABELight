@@ -620,7 +620,7 @@ p.org-name {
 /* =============================================================================
    Media Queries
    ========================================================================== */
-@media only screen and (max-width: 1366px) {
+@media only screen and (max-width: 1470px) {
   .wrapper {
     width: 100%;
     padding: 0 20px;
@@ -1032,12 +1032,23 @@ font-family:'Teuton23pro';
 /* =============================================================================
    Media Queries
    ========================================================================== */
-@media only screen and (max-width: 1366px) {
+@media only screen and (max-width: 1470px) {
   .header {
     background-size: auto 100%;
   }
+  .logo-name {
+    margin-top: 0.3em;
+  }
   .logo-link {
-    font-size: 25vw;
+    font-size: 32vh;
+  }
+  .tagline {
+    margin-bottom: 1em;
+    margin-top: 0.8em;
+    font-size: 4vh;
+  }
+  .nav-link {
+    font-size: 1.5em;
   }
 }
 @media only screen and (max-width: 768px) {

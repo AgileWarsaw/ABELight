@@ -14,7 +14,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
     <tbody>
       {{ range $slot := .schedule }}
         {{ if ne .presentation nil }}
-          <tr>
+          <tr class="schedule-header">
             <td class="schedule-time">{{ .presentation.time }}</td>
               <td class="schedule-slot">
               {{ range .authors }}
