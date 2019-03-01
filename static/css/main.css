@@ -866,11 +866,18 @@ nav {
 
 .logo-link {
   font-family: 'aberegular';
-  font-size: 330px;
+  font-size: 296px;
   line-height:0.7em;
   font-variant-caps:all-petite-caps;
 
 }
+
+@-moz-document url-prefix() {
+  .logo-link {
+    line-height:0.9em;
+  }
+}
+
 .tagline {
   font-weight: normal;
 }

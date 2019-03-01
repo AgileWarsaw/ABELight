@@ -65,21 +65,21 @@ params:
       url: "https://www2.deloitte.com/pl/pl.html"
 
     - name: "ProCognita"
-      logo: "img/logo_procognita.png"
+      logo: "img/logo_procognita_transparent.png"
       url: "https://procognita.pl/"
 
     - name: "Vistula"
-      logo: "img/logo_vistula.jpg"
+      logo: "img/logo_vistula_transparent.png"
       url: "http://www.vistula.edu.pl/"
 
     - name: "Slido"
-      logo: "img/logo_slido.jpg"
+      logo: "img/logo_slido_transparent.png"
       url: "http://www.slido.com"
 
   # List of Partners
   Partners:
     - name: "Agile Warsaw"
-      logo: "img/logo_AW.png"
+      logo: "img/logo_AW_transparent.png"
       url: "http://agilewarsaw.com"
 
       #- name: "PMI Oddział Warszawa"
@@ -89,7 +89,7 @@ params:
   # List of Media Partners
   Media:
     - name: "Agile Polska"
-      logo: "img/logo_APL.png" 
+      logo: "img/logo_APL_transparent.png" 
       url: "http://agilepolska.pl/"
 
       #- name: "Agile 247"
@@ -98,15 +98,15 @@ params:
 
   Orgs:
     - name: "Ewa Koprowska"
-      img: "img/org_koprowska.png"
+      img: "img/org_koprowska_transparent.png"
     - name: "Piotr Radaj"
-      img: "img/org_radaj.png"
+      img: "img/org_radaj_transparent.png"
     - name: "Mateusz Srebrny"
-      img: "img/org_srebrny.png"
+      img: "img/org_srebrny_transparent.png"
     - name: "Łukasz Szóstek"
-      img: "img/org_szostek.png"
+      img: "img/org_szostek_transparent.png"
     - name: "Magdalena Walczak"
-      img: "img/org_walczak.png"
+      img: "img/org_walczak_transparent.png"
     #- name: "Michał Koprowski"
       #img: "img/org_koprowski.png"
       #- name: "Piotr Szczygieł"
